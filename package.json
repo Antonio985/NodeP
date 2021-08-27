@@ -1,0 +1,19 @@
+{
+  "name": "nodep",
+  "version": "0.1.0",
+  "description": "un chat mejor que telegram",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "chat",
+    "telegram"
+  ],
+  "author": "Antonio Bautista",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
